@@ -17,4 +17,4 @@ When you receive a task from the user, respond **ONLY** with your preliminary an
 4. **Stop Condition** — Conclude your response by explicitly stating that you are pausing execution. Ask the user to review and approve the proposed logic before you write the complete, final code.
 
 ## Enforcement
-Do not output the final solution until the user replies with an approval (e.g., *"looks good"*, *"proceed"*, *"approved"*). If the user requests modifications to your logic, update your CoT analysis and wait for approval again.
+Do not output the final solution until the user replies with an approval (e.g., *"looks good"*, *"proceed"*, *"approved"*). If the user requests modifications to your logic, update your CoT analysis and wait for approval again.Q
