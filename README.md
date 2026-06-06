@@ -27,6 +27,16 @@ These four competencies don't map to four separate sections — they run through
 
 ---
 
+## A note on Diligence
+
+Diligence is the competency with no dedicated folder — it's a baseline assumption woven into everything else. In practice it means:
+
+- **Work in a dedicated folder.** Point the model only at what's relevant. Giving it access to your entire filesystem is the equivalent of letting a new hire rummage through every file you own.
+- **Back up anything irreplaceable.** Before running any automated workflow, make sure a copy of critical files lives somewhere the model can't reach.
+- **Test on copies first.** New workflows run against a copy of the data. Once you've seen it behave correctly, point it at the real thing.
+
+---
+
 ## Sources and acknowledgments
 
 This repo draws from multiple learning sources, all cited where relevant:
